@@ -1,2 +1,0 @@
-* patch.diff
-* open online page, copy content once. copy local content and paste into online page

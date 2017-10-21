@@ -1,6 +1,0 @@
-catch all exceptions
-try:
-    do_something()
-except:
-    print "Caught it!"
-However, this will also catch exceptions like KeyboardInterrupt and you usually don't want that

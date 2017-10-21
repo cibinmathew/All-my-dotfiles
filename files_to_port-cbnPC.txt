@@ -1,7 +1,0 @@
-C:/Users/cibin/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings
-C:/Users/cibin/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings
-C:/Users/cibin/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap
-C:/Users/cibin/AppData/Roaming/Sublime Text 3/Packages/User/Python.sublime-settings
-C:/Users/cibin/AppData/Roaming/Sublime Text 3/Packages/User/fuzzy_file_nav.sublime-settings
-C:/Users/cibin/AppData/Roaming/Microsoft/Excel/XLSTART/PERSONAL.XLSB
-C:/cygwin64/home/cibin
